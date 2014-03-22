@@ -1,0 +1,22 @@
+{
+  "name": "gaffa-toggle",
+  "author": "Kory Nunn <knunn187@gmail.com>",
+  "version": "1.0.0",
+  "main": "toggle.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KoryNunn/gaffa-toggle.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/gaffa-toggle/issues"
+  },
+  "keywords": [
+    "gaffa",
+    "toggle",
+    "action"
+  ],
+  "peerDependencies": {
+    "gaffa": "^1.0.0"
+  },
+  "license": "MIT"
+}
